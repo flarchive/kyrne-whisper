@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of kyrne/whisper.** Not for installation: use [Packagist](https://packagist.org/packages/kyrne/whisper) or the [upstream repository](https://github.com/KyrneDev/whisper).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/kyrne-whisper/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.0.2`
+**5** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/kyrne-whisper/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-07-21 | `^1.0.2` | [Browse](https://github.com/flarchive/kyrne-whisper/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-07-22 | `^1.0.2` | [Browse](https://github.com/flarchive/kyrne-whisper/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-07-22 | `^1.0.2` | [Browse](https://github.com/flarchive/kyrne-whisper/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-07-27 | `^1.0.2` | [Browse](https://github.com/flarchive/kyrne-whisper/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-12-07 | `^1.0.2` | [Browse](https://github.com/flarchive/kyrne-whisper/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/kyrne-whisper.json](https://github.com/flarchive/archive-index/blob/main/packages/kyrne-whisper.json)
 
